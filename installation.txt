@@ -1,4 +1,4 @@
-Create a database "poll"
+Create a database named  "poll"
 
 import poll.sql file from phpmyadmin
 
@@ -8,3 +8,5 @@ ADMIN LOGIN DETAILS
 URL: localhost/online_voting/admin
 USER NAME: admin@example.com
 PASSWORD: admin
+
+#exceutes without error
